@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#nav{
+    background-color: red;
+}
+#a{
+    background-color: azure;
+    border-radius: 10px;
+    margin-left: 125px;
+    color: brown;
+
+    
+
+}
+#a:hover{
+    background-color: palevioletred;
+}
+#b{
+    color: white;
+    background-color: red;
+    border-radius: 13px;
+    margin-left: 20px;
+}
+#l{
+    background-color: azure;
+    border-radius: 10px;
+    margin-left:20px;
+    color: brown;
+}
+#l:hover{
+    background-color: palevioletred;
+}
+#d{
+    margin-left: 20px;
+}
+#g{
+    margin-left:350px;
+    border-radius: 13px;
+}
+#n {
+    font-feature-settings: "pnum" on,"lnum" on;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 23px;
+    transition: all .3s ease-in 0s;
+    white-space: nowrap;
+    margin-right: -35px;
+}
+#h{
+    color: white;
+    background-color: red;
+}
+
+/* #olcha{
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+    margin-left: 26px;
+}
+#kat{
+    margin-left: 170px;
+    margin-top: -85px
+}
+#search{
+    border-radius: 10px;
+    padding: 10px;
+    padding-left: 500px;
+    margin-left: 300px;
+    margin-bottom:-300px;
+}
+#lupa{
+    background-color: aqua;
+    margin-left: 990px;
+    margin-bottom: -300px;
+    width: 70px;
+    height: 48px;
+    border-radius: 15px;
+
+}
+#btnh{
+    align-items: center;
+    color: #111;
+    display: flex;
+    height: 36px;
+    justify-content: center;
+    position: relative;
+    width: 100%;
+    margin-left: 450px;
+    margin-bottom: 220px;
+}
+#btnh:hover{
+    color: red;
+} */
+#yur{
+    border: none;
+    background-color: white;
+}
+#search{
+
+}
+#locha{
+   
+}
+#kat:hover{
+    background-color: white;
+    color: rgb(230, 57, 57);
+    border: 1px solid red;
+}
+.card-text:hover{
+    color: red;
+}
+.card-text:active{
+    color: darkred;
+
+}
+.x:hover{
+    color: red;
+
+}
+.btngj:active{
+    color: red;
+    background: red;
+}
+.btngj:focus{
+    color: red;
+}
