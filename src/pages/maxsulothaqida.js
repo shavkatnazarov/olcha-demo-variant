@@ -29,10 +29,13 @@ function Max() {
             <h1 className={"text-center text-primary-emphasis"}>{products.price}</h1>
             <Link style={{marginLeft: '660px'}} to={'https://t.me/shavkat0801'} className="btn btn-outline-primary">sotib
                 olish</Link>
+
             <Futter/>
         </div>
 
     );
 }
+document.getElementById("btn")
+
 
 export default Max;
