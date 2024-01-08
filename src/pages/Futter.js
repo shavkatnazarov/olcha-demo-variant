@@ -94,7 +94,7 @@ function Footer() {
                     </div>
                 </section>
                 <div class="text-center p-4 bg-light">
-                    © 2023 Copyright:
+                    © 2023 Copyright:shavkat  
                     <a class="text-reset fw-bold" href="https://t.me/shavkat0801">SHAVKAT</a>
                 </div>
             </footer>
